@@ -1,66 +1,7 @@
-/* h1 {
-  color: red;
-} */
-
-/* body {
-  background-color: lightpink;
-} */
-
-/* type selectors */
-/* p {
-  background-color: yellow;
-} */
-
-/* h1 {
-  color: red;
-} */
-
-/* .heading {
-  color: red;
-} */
-
-/* p {
-  background-color: yellow;
-} */
-
-/* this styles only element which has this class */
-.first-paragraph {
-  background-color: yellow;
-  color: green;
-}
-
-.text {
-  color: orange;
-  background-color: blue;
-}
-
-.last {
-  background-color: tomato;
-  color: white;
-}
-
-#text {
-  background-color: purple;
-  color: white;
-}
-
-#another-block {
-  color: yellow;
-  background-color: black;
-}
-
-.google-link {
-  color: black;
-}
-
-#link {
-  background-color: lightgreen;
-}
-
-.heading {
+a {
   background-color: red;
 }
 
-#heading {
-  color: yellow;
+p {
+  background-color: red;
 }
