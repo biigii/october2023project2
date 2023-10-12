@@ -1,7 +1,28 @@
-a {
+/* p {
+  background-color: red;
+} */
+
+.text-one {
   background-color: red;
 }
 
-p {
-  background-color: red;
+.text-two {
+  background-color: yellow;
+}
+
+.text-three {
+  background-color: pink;
+}
+
+.text-block {
+  background-color: gold;
+}
+
+.heading-block {
+  color: white;
+  background-color: black;
+}
+
+.inner-section {
+  background-color: yellow;
 }
