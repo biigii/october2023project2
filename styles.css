@@ -1,9 +1,11 @@
-p {
-  color: blue;
-  background-color: pink;
+h1 {
+  /* ; is optional for one line css block or if a 
+  line is the last line in our block */
+  background-color: black;
+  color: red;
 }
 
-h4 {
-  color: greenyellow;
-  background-color: black;
+/*  this is how we comment in css */
+body {
+  background-color: lightgreen;
 }
